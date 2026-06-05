@@ -1,0 +1,248 @@
+{
+  "version_sistema": "1.0",
+  "tipo_exportacion": "eventos_simulacion",
+  "fecha_exportacion": "2026-06-04T12:04:13.598974700",
+  "eventos": [
+    {
+      "sensor_id": 104,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Sala",
+      "es_no_autorizado": false,
+      "mensaje": "🔒 Ventana Sala cerrada",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:02:52"
+    },
+    {
+      "sensor_id": 14,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Trasera",
+      "es_no_autorizado": true,
+      "mensaje": "🔒 Puerta Trasera cerrada",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:02:56"
+    },
+    {
+      "sensor_id": 15,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Garaje",
+      "es_no_autorizado": false,
+      "mensaje": "🔒 Puerta Garaje cerrada",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:02:59"
+    },
+    {
+      "sensor_id": 26,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Garaje",
+      "es_no_autorizado": false,
+      "mensaje": "✓ Puerta Garaje abierta correctamente",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:03"
+    },
+    {
+      "sensor_id": 5,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Sensor Ventana Cocina",
+      "es_no_autorizado": true,
+      "mensaje": "🔒 Sensor Ventana Cocina cerrada",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:06"
+    },
+    {
+      "sensor_id": 17,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Cocina",
+      "es_no_autorizado": true,
+      "mensaje": "🚨 ALERTA! Ventana Cocina abierta SIN AUTORIZACIÓN",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:10"
+    },
+    {
+      "sensor_id": 20,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Baño",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Ventana Baño",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:13"
+    },
+    {
+      "sensor_id": 5,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Sensor Ventana Cocina",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Sensor Ventana Cocina",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:17"
+    },
+    {
+      "sensor_id": 104,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Sala",
+      "es_no_autorizado": false,
+      "mensaje": "✓ Ventana Sala abierta correctamente",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:20"
+    },
+    {
+      "sensor_id": 108,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Baño",
+      "es_no_autorizado": false,
+      "mensaje": "🔒 Ventana Baño cerrada",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:24"
+    },
+    {
+      "sensor_id": 4,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Sensor Puerta Trasera",
+      "es_no_autorizado": true,
+      "mensaje": "🔒 Sensor Puerta Trasera cerrada",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:27"
+    },
+    {
+      "sensor_id": 2,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Sensor Ventana Sala",
+      "es_no_autorizado": true,
+      "mensaje": "🚨 ALERTA! Sensor Ventana Sala abierta SIN AUTORIZACIÓN",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:31"
+    },
+    {
+      "sensor_id": 23,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Sala",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Ventana Sala",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:34"
+    },
+    {
+      "sensor_id": 23,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Sala",
+      "es_no_autorizado": false,
+      "mensaje": "🔒 Ventana Sala cerrada",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:38"
+    },
+    {
+      "sensor_id": 103,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Garaje",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Puerta Garaje",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:41"
+    },
+    {
+      "sensor_id": 105,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Cocina",
+      "es_no_autorizado": false,
+      "mensaje": "✓ Ventana Cocina abierta correctamente",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:45"
+    },
+    {
+      "sensor_id": 27,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Baño",
+      "es_no_autorizado": true,
+      "mensaje": "🔒 Ventana Baño cerrada",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:48"
+    },
+    {
+      "sensor_id": 103,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Garaje",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Puerta Garaje",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:52"
+    },
+    {
+      "sensor_id": 13,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Principal",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Puerta Principal",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:03:55"
+    },
+    {
+      "sensor_id": 25,
+      "estado": "OPEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Dormitorio",
+      "es_no_autorizado": false,
+      "mensaje": "✓ Ventana Dormitorio abierta correctamente",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:03:59"
+    },
+    {
+      "sensor_id": 101,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Principal",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Puerta Principal",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:04:02"
+    },
+    {
+      "sensor_id": 103,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Garaje",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Puerta Garaje",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:04:06"
+    },
+    {
+      "sensor_id": 13,
+      "estado": "CLOSED",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Puerta Principal",
+      "es_no_autorizado": false,
+      "mensaje": "🔒 Puerta Principal cerrada",
+      "tipo_evento": "NORMAL",
+      "timestamp": "12:04:09"
+    },
+    {
+      "sensor_id": 23,
+      "estado": "BROKEN",
+      "casa": "1 - Casa Principal",
+      "sensor_nombre": "Ventana Sala",
+      "es_no_autorizado": true,
+      "mensaje": "💥 ROTURA DETECTADA! Ventana Sala",
+      "tipo_evento": "ALERTA",
+      "timestamp": "12:04:13"
+    }
+  ],
+  "total_eventos": 24
+}

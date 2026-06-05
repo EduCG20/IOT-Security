@@ -1,0 +1,13 @@
+{
+  "estadisticas": {
+    "porcentaje_anomalias": 0.0,
+    "fecha_analisis": "2026-06-04T12:02:44.295174900",
+    "hora_mas_activa": "Ninguna",
+    "eventos_no_autorizados": 0,
+    "riesgo_actual": 0.0,
+    "sensor_mas_activo": "Ninguno",
+    "total_eventos": 0
+  },
+  "version_sistema": "1.0",
+  "fecha_exportacion": "2026-06-04T12:02:44.334643900"
+}
